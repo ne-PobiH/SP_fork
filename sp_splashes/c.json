@@ -4,6 +4,10 @@
 		"parent": "",
 		"remote_parent": "sp_splashes",
 		"files": {
+			"assets/minecraft/texts/splashes.txt": {
+				"hash": "3d4ce4e45f1ea3aa95f3795e2908b04c185b5f7e",
+				"size": 7007
+			}
 		}
 	}
 }
