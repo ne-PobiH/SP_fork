@@ -4,10 +4,6 @@
 		"parent": "",
 		"remote_parent": "merged_packs/sprp",
 		"files": {
-			"assets/minecraft/models/templates/zippo.json": {
-				"hash": "b10a029b2030f53712e0352b345e90a2f371deeb",
-				"size": 5691
-			},
 			"assets/minecraft/optifine/cit/sprp/emoji/0o0.json": {
 				"hash": "e41ef0f4f11e4c5d9cc394a627d751e1bdae7308",
 				"size": 63
@@ -969,8 +965,8 @@
 				"size": 138
 			},
 			"assets/minecraft/optifine/cit/sprp/items/foliant_t.properties": {
-				"hash": "c1d7985419e1878a2864c78723a1a74ea963dcc6",
-				"size": 125
+				"hash": "a73f8737ebc4c6b78e5e6ef9ff1681dc28edfe17",
+				"size": 153
 			},
 			"assets/minecraft/optifine/cit/sprp/items/future.json": {
 				"hash": "5e37c85ce43b378cf7c57f2ef4e072757e5e919b",
@@ -1061,8 +1057,8 @@
 				"size": 132
 			},
 			"assets/minecraft/optifine/cit/sprp/items/message_t.properties": {
-				"hash": "f3141063a0ceb123f44f1f927f1a272fea20441d",
-				"size": 105
+				"hash": "07d53d41b99a494b713aab1b19e5c79ca16d1de7",
+				"size": 133
 			},
 			"assets/minecraft/optifine/cit/sprp/items/microscope.json": {
 				"hash": "e9c3b48bd937d909acbe00e6e0ba6779d0dd3412",
@@ -1269,8 +1265,8 @@
 				"size": 130
 			},
 			"assets/minecraft/optifine/cit/sprp/items/texts_t.properties": {
-				"hash": "f1d58b5b4ecf5f629d42cd5846d569c1aff886c8",
-				"size": 117
+				"hash": "713ef951fe3c28ff63955ea7ad5f34ceee92da99",
+				"size": 145
 			},
 			"assets/minecraft/optifine/cit/sprp/items/tv.json": {
 				"hash": "7027201f182fe1b725c8a9b3bc8ed242b9d28f11",

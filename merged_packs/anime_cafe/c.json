@@ -28,42 +28,6 @@
 				"hash": "1c804b58788b219703040924bad6c8845fe6d094",
 				"size": 149
 			},
-			"assets/minecraft/optifine/cit/anime_cafe/borsh/borsch.png": {
-				"hash": "49abbf96ddf7722a86b5821f120380cf6ac2da34",
-				"size": 731
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/borsh/KRD.json": {
-				"hash": "4b32bd04fd6fa8b1d4d8193e718dc4d4e668a94e",
-				"size": 6372
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/borsh/KRD.properties": {
-				"hash": "cf71cb997d0634a10435a12039eb1ad2fb0b4572",
-				"size": 235
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/bulba/Bulba.json": {
-				"hash": "4428b42ff42ef0aad35436c4f3d0e360c9b840e6",
-				"size": 16368
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/bulba/Bulba.properties": {
-				"hash": "30d2835bb389c36c97fca500d3daa457d186f026",
-				"size": 178
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/bulba/Eger.png": {
-				"hash": "e50df5d969ba17ad6e11cbc96a91166702a52fb0",
-				"size": 459
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/cum/kameh.json": {
-				"hash": "367b41d7ba5721ca01a320d148bb5ce5a416573b",
-				"size": 2550
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/cum/kameH.png": {
-				"hash": "fd6f8b4964c4ea73407cb1bfca3ba7b33b725e60",
-				"size": 199
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/cum/kameh.properties": {
-				"hash": "c47fc44c0ddf9dc4e0afe0416f7ee9599a3ccad5",
-				"size": 174
-			},
 			"assets/minecraft/optifine/cit/anime_cafe/cup/fern.png": {
 				"hash": "ef619b9692cacf6aa21c16e95620355796a2b986",
 				"size": 256
@@ -79,34 +43,6 @@
 			"assets/minecraft/optifine/cit/anime_cafe/cup/mod.properties": {
 				"hash": "b4cb3af9fd037a7408c47acf35b175788a32181d",
 				"size": 220
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/egg/Egg.json": {
-				"hash": "e698e5e10357d7dd338a38c7736f2831be4b1707",
-				"size": 5905
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/egg/Egg.properties": {
-				"hash": "94fd624ebdc43efb42f604b73f51e09e9c05003b",
-				"size": 203
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/egg/Eggs.png": {
-				"hash": "7a73dfb4c1baf2f55e6f18a8a382d8d5cacfc24b",
-				"size": 417
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/eva/sjbody.png": {
-				"hash": "6afe7153f42ba1814b29fc4b7dc200a7b914eec8",
-				"size": 519
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/eva/Stul.json": {
-				"hash": "5a2dd2cb51a4222315bc892e0d636d8b391505b6",
-				"size": 12821
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/eva/Stul.properties": {
-				"hash": "d26cc350774472aa9e9a8e8e9c5a28007baf96c2",
-				"size": 168
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/eva/tororo.png": {
-				"hash": "0ec36c243771814dec110dfc58d031bc97c08963",
-				"size": 417
 			},
 			"assets/minecraft/optifine/cit/anime_cafe/gojo/god.png": {
 				"hash": "30deffb578b17f1c3b417994a674f8fa365d887f",
@@ -132,30 +68,6 @@
 				"hash": "d8d77fdda14f46627a373038af99294542ac666b",
 				"size": 185
 			},
-			"assets/minecraft/optifine/cit/anime_cafe/gul/gual.png": {
-				"hash": "bb884cab0f1c6716c97917ce2fa2fae2eba77758",
-				"size": 726
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/gul/Rar.json": {
-				"hash": "e86948b9ea39ac23d24e0899fa3b51a5d0be788f",
-				"size": 9018
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/gul/Rar.properties": {
-				"hash": "d275de67e5771fac368fe7d19b3ef9abbc12252a",
-				"size": 222
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/gulash/Gulash.json": {
-				"hash": "73b990aef2c4d5e1a18f7a5429dec367c8bdd136",
-				"size": 12402
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/gulash/Gulash.properties": {
-				"hash": "1677afa48149738f86c6ebc9dc49c6dc53c50446",
-				"size": 200
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/gulash/mgaa.png": {
-				"hash": "30e37a6d66d10630de1b81a0e4088be7e577180b",
-				"size": 487
-			},
 			"assets/minecraft/optifine/cit/anime_cafe/jojo/jija.json": {
 				"hash": "82f9fda0b46aaf330bda4c9e43b75117ea52c683",
 				"size": 17470
@@ -167,18 +79,6 @@
 			"assets/minecraft/optifine/cit/anime_cafe/jojo/one.png": {
 				"hash": "38410f0e2ac6d47b86ac877b2fed926a8cd0f156",
 				"size": 618
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/mech/beef_sword.png": {
-				"hash": "1ac7acad6afa6143631676abac14ba401ac9a54d",
-				"size": 576
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/mech/Sword.json": {
-				"hash": "2dd2ea9cd7d2ce24ae8da8e2431f4e54afcc7fe8",
-				"size": 7129
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/mech/Sword.properties": {
-				"hash": "139be56fbf550bd282d6db27566d22ea8882ea00",
-				"size": 167
 			},
 			"assets/minecraft/optifine/cit/anime_cafe/pelmeni/kera.png": {
 				"hash": "e1732d976b987789114f2b4bd133f734c7a65f95",
@@ -208,30 +108,6 @@
 				"hash": "7999bfc1e388f1466a2d1da035f8d8e48e6ae4e3",
 				"size": 206
 			},
-			"assets/minecraft/optifine/cit/anime_cafe/ragu/Ragu_SH.json": {
-				"hash": "49ce336e3d897c2a2d219e6a9c434e9520ac33c0",
-				"size": 13098
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/ragu/Ragu_SH.properties": {
-				"hash": "834b6bc328b66f3ca8af515edc143d522060450c",
-				"size": 213
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/ragu/stravhead.png": {
-				"hash": "2ad36137348675fab20b399e5c7c0965859a9c82",
-				"size": 578
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/ramen/Ramen_nar.json": {
-				"hash": "ed0a794a1e4464e12c10557ccdc702536c5ef097",
-				"size": 8037
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/ramen/Ramen_nar.properties": {
-				"hash": "7b28ab4faae9ef54e56349e2d6a1cd80cacc0fd1",
-				"size": 207
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/ramen/ramen_naruto.png": {
-				"hash": "822f7c3bb41fafed7247e5e18e83204e4a105888",
-				"size": 673
-			},
 			"assets/minecraft/optifine/cit/anime_cafe/sok/alah.json": {
 				"hash": "8022eab12dbe50f4a544afb0ec6ba79b2ae5c25a",
 				"size": 1552
@@ -243,18 +119,6 @@
 			"assets/minecraft/optifine/cit/anime_cafe/sok/alh.png": {
 				"hash": "e580ad1ad2be99501dad8ee9c8f1db7a61de9d7e",
 				"size": 508
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/spy/Anna.json": {
-				"hash": "cc0a91c7894a653c670eb7df74b867decf9a564f",
-				"size": 3136
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/spy/Anna.properties": {
-				"hash": "477e2a7ab197b1252e58e2dc891e4fa42ca56d88",
-				"size": 221
-			},
-			"assets/minecraft/optifine/cit/anime_cafe/spy/ice.png": {
-				"hash": "b0afb4c4be937eabe4151c88d6f0f7fe6096c978",
-				"size": 577
 			},
 			"assets/minecraft/optifine/cit/anime_cafe/xxx/hant.png": {
 				"hash": "2038511c185b784ed94d0d8ff7a729566462f32c",
